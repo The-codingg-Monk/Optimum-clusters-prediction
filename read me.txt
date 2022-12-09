@@ -1,0 +1,1 @@
+In this project from given iris dataset I tried to find optimum numbers of clusters and visualized them using matplotlib.
